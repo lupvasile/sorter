@@ -1,0 +1,46 @@
+C:\Users\Vasi\Desktop\sorter\sorter\bin\Debug\sorter.exe
+C:\Users\Vasi\Desktop\sorter\sorter\bin\Debug\sorter.pdb
+C:\Users\Vasi\Desktop\sorter\sorter\obj\x86\Debug\sorter.Properties.Resources.resources
+C:\Users\Vasi\Desktop\sorter\sorter\obj\x86\Debug\sorter.exe
+C:\Users\Vasi\Desktop\sorter\sorter\obj\x86\Debug\sorter.pdb
+D:\old\old desktop\sorter\sorter\obj\x86\Debug\sorter.exe
+D:\old\old desktop\sorter\sorter\obj\x86\Debug\sorter.pdb
+D:\old\old desktop\sorter\sorter\bin\Debug\sorter.exe
+D:\old\old desktop\sorter\sorter\bin\Debug\sorter.pdb
+D:\old\old desktop\sorter\sorter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\old\old desktop\sorter\sorter\obj\x86\Debug\sorter.Form1.resources
+D:\old\old desktop\sorter\sorter\obj\x86\Debug\sorter.Properties.Resources.resources
+D:\old\old desktop\sorter\sorter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\old\old desktop\sorter\sorter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vasi\Desktop\sorter\sorter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasi\Desktop\sorter\sorter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vasi\Desktop\sorter\sorter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vasi\Desktop\sorter\sorter\obj\x86\Debug\sorter.form_principal.resources
+C:\Users\Vasi\Desktop\sorter\sorter\bin\Debug\sorter.exe.config
+C:\Users\Vasi\Desktop\sorter\sorter\obj\x86\Debug\sorter.form_months.resources
+C:\Users\Vasi\Desktop\sorter\sorter\obj\x86\Debug\sorter.form_extensions.resources
+C:\Users\Vasi\Desktop\sorter\sorter\bin\Debug\ExifLib.pdb
+C:\Users\VasiJr\Google Drive\sorter\sorter\bin\Debug\sorter.exe.config
+C:\Users\VasiJr\Google Drive\sorter\sorter\obj\x86\Debug\sorter.exe
+C:\Users\VasiJr\Google Drive\sorter\sorter\obj\x86\Debug\sorter.pdb
+C:\Users\VasiJr\Google Drive\sorter\sorter\bin\Debug\sorter.exe
+C:\Users\VasiJr\Google Drive\sorter\sorter\bin\Debug\sorter.pdb
+C:\Users\VasiJr\Google Drive\sorter\sorter\bin\Debug\ExifLib.pdb
+C:\Users\VasiJr\Google Drive\sorter\sorter\obj\x86\Debug\sorter.csprojResolveAssemblyReference.cache
+C:\Users\VasiJr\Google Drive\sorter\sorter\obj\x86\Debug\sorter.form_principal.resources
+C:\Users\VasiJr\Google Drive\sorter\sorter\obj\x86\Debug\sorter.form_months.resources
+C:\Users\VasiJr\Google Drive\sorter\sorter\obj\x86\Debug\sorter.form_extensions.resources
+C:\Users\VasiJr\Google Drive\sorter\sorter\obj\x86\Debug\sorter.Properties.Resources.resources
+C:\Users\VasiJr\Google Drive\sorter\sorter\obj\x86\Debug\sorter.csproj.GenerateResource.Cache
+D:\Google Drive\sorter\sorter\bin\Debug\sorter.exe.config
+D:\Google Drive\sorter\sorter\obj\x86\Debug\sorter.exe
+D:\Google Drive\sorter\sorter\obj\x86\Debug\sorter.pdb
+D:\Google Drive\sorter\sorter\obj\x86\Debug\sorter.form_principal.resources
+D:\Google Drive\sorter\sorter\obj\x86\Debug\sorter.form_months.resources
+D:\Google Drive\sorter\sorter\obj\x86\Debug\sorter.form_extensions.resources
+D:\Google Drive\sorter\sorter\obj\x86\Debug\sorter.Properties.Resources.resources
+D:\Google Drive\sorter\sorter\bin\Debug\sorter.exe
+D:\Google Drive\sorter\sorter\bin\Debug\sorter.pdb
+D:\Google Drive\sorter\sorter\bin\Debug\ExifLib.pdb
+D:\Google Drive\sorter\sorter\obj\x86\Debug\sorter.csprojResolveAssemblyReference.cache
+D:\Google Drive\sorter\sorter\obj\x86\Debug\sorter.csproj.GenerateResource.Cache
